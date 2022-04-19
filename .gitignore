@@ -1,0 +1,12 @@
+.idea/
+.venv/
+venv/
+__pycache__
+.pytest_cache
+app/settings.py
+experimental/
+config.nswag
+celerybeat-schedule
+celerybeat.pid
+.env
+
